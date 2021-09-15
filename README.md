@@ -1,2 +1,2 @@
 # sudoku-solver
-Basic webapp generating a random sudoku and then solving it
+Basic webapp,that generates a random sudoku for the user to solve and also providing the solution of the sudoku puzzle. 
